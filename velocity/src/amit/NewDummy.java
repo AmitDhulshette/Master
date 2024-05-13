@@ -25,10 +25,10 @@ public class NewDummy {
 			    case 1 : System.out.println("dhfsvsadfbvsdvsd");
 			    break;
 			    
-			    case 2 : System.out.println("sdhghasdfajsfdafg.");
+			    case 2 : System.out.println("jsfdkawfd.");
 			    break;
 			    
-			    case 3 : System.out.println("ajsdhkjsfdjafdslajsf.");
+			    case 3 : System.out.println("jsfdgkawfd.");
 			    break;
 			    
 			    default:System.out.println("No Question");
