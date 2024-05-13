@@ -22,17 +22,19 @@ public class NewDummy {
 			    break;
 			    
 
-			    case 1 : System.out.println("Tell me about your self.");
+			    case 1 : System.out.println("dhfsvsadfbvsdvsd");
 			    break;
 			    
-			    case 2 : System.out.println("Tell me about your self.");
+			    case 2 : System.out.println("sdhghasdfajsfdafg.");
 			    break;
 			    
-			    case 3 : System.out.println("Tell me about your self.");
+			    case 3 : System.out.println("ajsdhkjsfdjafdslajsf.");
 			    break;
 			    
 			    default:System.out.println("No Question");
 				break;
+				
+				
 			
 		
 				
