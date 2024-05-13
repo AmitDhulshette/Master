@@ -20,9 +20,14 @@ public class NewDummy {
 			
 			    case 0 : System.out.println("Tell me about your self.");
 			    break;
+			    case 1 : System.out.println("jsfdkawfd.");
+			    break;
 			    
+			    case 2 : System.out.println("jsfdgkawfd.");
+			    break;
 
-			   
+			    case 3 : System.out.println("jsfdgkawfd.");
+			    break;
 			    
 			    case 4 : System.out.println("jsfdkawfd.");
 			    break;
