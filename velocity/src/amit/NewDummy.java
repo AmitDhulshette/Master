@@ -31,6 +31,16 @@ public class NewDummy {
 			    case 3 : System.out.println("jsfdgkawfd.");
 			    break;
 			    
+			    case 4 : System.out.println("jsfdkawfd.");
+			    break;
+			    
+			    case 5 : System.out.println("jsfdgkawfd.");
+			    break;
+			    
+			    
+			    
+			    
+			    
 			    default:System.out.println("No Question");
 				break;
 				
