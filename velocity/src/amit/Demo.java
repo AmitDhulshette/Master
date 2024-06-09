@@ -11,9 +11,6 @@ public class Demo {
 		int fibbo = 0;
 		System.out.println(a);
 		System.out.println(a);
-		System.out.println(a);
-		System.out.println(a);
-		System.out.println(a);
 		
 		for(int i=1; i<=10; i++)
 		{
