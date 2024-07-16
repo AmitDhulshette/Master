@@ -8,10 +8,7 @@ public class Test {
 	
 	System.out.println("Hello");
 	
-System.out.println("Hi");
-	
-	System.out.println("Hello");
-		
+
 		
 		
 		
